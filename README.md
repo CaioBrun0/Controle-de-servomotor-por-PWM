@@ -36,6 +36,9 @@ O LED também é controlado pelo mesmo sinal PWM.
 - Biblioteca `hardware/pwm.h`
 - Biblioteca `pico/stdlib.h`
 
+## Link do vídeo no YouTube
+https://youtu.be/Deoz2GTew8g?si=JcvKKLAWOizh1xcb
+
 ## Autor
 Desenvolvido para estudos e aplicações práticas com Raspberry Pi Pico e controle de dispositivos via PWM.
 
